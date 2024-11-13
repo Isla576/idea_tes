@@ -8,7 +8,7 @@ class DemoApplicationTests {
 
     @Test
     void contextLoads() {
-        System.out.println("update");
+        System.out.println("update0005");
         System.out.println("second");
         System.out.println("first");
 
