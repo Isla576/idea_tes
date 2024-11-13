@@ -10,6 +10,8 @@ class DemoApplicationTests {
     void contextLoads() {
         System.out.println("4561651616");
         System.out.println("second");
+        System.out.println("first");
+
     }
 
 }
