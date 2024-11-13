@@ -10,7 +10,7 @@ class DemoApplicationTests {
     void contextLoads() {
         System.out.println("update0005");
         System.out.println("second");
-        System.out.println("first");
+        System.out.println("first0006");
 
     }
 
