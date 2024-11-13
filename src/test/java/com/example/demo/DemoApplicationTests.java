@@ -12,6 +12,7 @@ class DemoApplicationTests {
         System.out.println("second");
         System.out.println("first");
         System.out.println("777777777");
+        System.out.println("first0006");
     }
 
 }
