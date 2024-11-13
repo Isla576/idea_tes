@@ -9,6 +9,7 @@ class DemoApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("4561651616");
+        System.out.println("second");
     }
 
 }
